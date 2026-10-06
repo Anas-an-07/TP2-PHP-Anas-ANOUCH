@@ -29,3 +29,6 @@
 
 ```bash
 php -S localhost:8000
+
+explication de question numero 5 exercice 2 :
+les duex variable sont different cae php est sensible a la case
