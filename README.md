@@ -30,5 +30,10 @@
 ```bash
 php -S localhost:8000
 
-explication de question numero 5 exercice 2 :
-les duex variable sont different cae php est sensible a la case
+##explication de question numero 5 exercice 2 :
+**les duex variable sont different cae php est sensible a la case
+
+##exercice 4 , la difference emtre echo et var_dump()
+**echo : affiche seulement la valeur
+**var_dump : affiche la valeur et le type
+
