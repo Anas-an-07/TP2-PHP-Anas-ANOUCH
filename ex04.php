@@ -10,12 +10,12 @@
     <?php
     //1. Déclarer les valeurs suivantes : `42`, `"42"`, `15.8`, `true`, `false`, `null` dans six variables.
 
-    $a = 42
-    $b = "42"
-    $c = 15.8
-    $d = true 
-    $e = false
-    $f = null
+    $a = 42 ;
+    $b = "42" ;
+    $c = 15.8 ;
+    $d = true ;
+    $e = false ;
+    $f = null ;
 
     ?>
 
